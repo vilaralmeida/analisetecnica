@@ -1,0 +1,11 @@
+Package: rbestcoinstech
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Rodrigo Almeida <bestcoins.tech@gmail.com>
+Maintainer: Rodrigo Almeida <bestcoins.tech@gmail.com>
+Description: Getting info about cryptoassets to help decisions of buy and sell
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

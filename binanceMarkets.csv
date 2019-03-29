@@ -1,0 +1,431 @@
+"","#","Currency","Pair","Volume (24h)","Price","Volume (%)","Category","Fee Type","Updated","""Binance""","Sys.Date()"
+"1",1,"Bitcoin","BTC/USDT","$83,815,739","$3487.95","16.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"2",2,"XRP","XRP/USDT","$41,739,824","$0.320697","7.98%","Spot","Percentage","Recently","Binance",2019-01-30
+"3",3,"Ethereum","ETH/USDT","$35,604,279","$109.07","6.81%","Spot","Percentage","Recently","Binance",2019-01-30
+"4",4,"XRP","XRP/BTC","$34,294,822","$0.320566","6.56%","Spot","Percentage","Recently","Binance",2019-01-30
+"5",5,"Ethereum","ETH/BTC","$21,364,076","$108.97","4.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"6",6,"TRON","TRX/USDT","$18,750,248","$0.027491","3.59%","Spot","Percentage","Recently","Binance",2019-01-30
+"7",7,"Binance Coin","BNB/USDT","$14,112,145","$6.17","2.70%","Spot","Percentage","Recently","Binance",2019-01-30
+"8",8,"TRON","TRX/BTC","$13,510,429","$0.027463","2.58%","Spot","Percentage","Recently","Binance",2019-01-30
+"9",9,"Waves","WAVES/BTC","$13,412,448","$2.91","2.57%","Spot","Percentage","Recently","Binance",2019-01-30
+"10",10,"Binance Coin","BNB/BTC","$11,556,296","$6.17","2.21%","Spot","Percentage","Recently","Binance",2019-01-30
+"11",11,"Bitcoin Cash","BCHABC/USDT","$10,886,643","$118.61","2.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"12",12,"Holo","HOT/BTC","$9,551,109","$0.001150","1.83%","Spot","Percentage","Recently","Binance",2019-01-30
+"13",13,"TrueUSD","TUSD/BTC","$8,593,826","$1.01","1.64%","Spot","Percentage","Recently","Binance",2019-01-30
+"14",14,"Bitcoin","BTC/PAX","$7,443,926","$3477.82","1.42%","Spot","Percentage","Recently","Binance",2019-01-30
+"15",15,"Stellar","XLM/BTC","$7,337,256","$0.085770","1.40%","Spot","Percentage","Recently","Binance",2019-01-30
+"16",16,"EOS","EOS/USDT","$6,520,832","$2.34","1.25%","Spot","Percentage","Recently","Binance",2019-01-30
+"17",17,"Bitcoin Cash","BCHABC/BTC","$5,580,235","$118.53","1.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"18",18,"Chainlink","LINK/BTC","$5,346,065","$0.425803","1.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"19",19,"Stellar","XLM/USDT","$5,130,124","$0.085863","0.98%","Spot","Percentage","Recently","Binance",2019-01-30
+"20",20,"Cardano","ADA/USDT","$4,550,011","$0.039762","0.87%","Spot","Percentage","Recently","Binance",2019-01-30
+"21",21,"TrueUSD","TUSD/USDT","$4,463,927","$1.01","0.85%","Spot","Percentage","Recently","Binance",2019-01-30
+"22",22,"Waves","WAVES/USDT","$4,410,929","$2.91","0.84%","Spot","Percentage","Recently","Binance",2019-01-30
+"23",23,"Litecoin","LTC/USDT","$3,987,567","$31.98","0.76%","Spot","Percentage","Recently","Binance",2019-01-30
+"24",24,"Paxos Standard Token","PAX/USDT","$3,985,805","$1.01","0.76%","Spot","Percentage","Recently","Binance",2019-01-30
+"25",25,"Litecoin","LTC/BTC","$3,940,777","$31.98","0.75%","Spot","Percentage","Recently","Binance",2019-01-30
+"26",26,"Ethereum","ETH/PAX","$3,698,781","$108.77","0.71%","Spot","Percentage","Recently","Binance",2019-01-30
+"27",27,"Cardano","ADA/BTC","$3,546,910","$0.039696","0.68%","Spot","Percentage","Recently","Binance",2019-01-30
+"28",28,"Bitcoin SV","BCHSV/USDT","$3,418,392","$66.32","0.65%","Spot","Percentage","Recently","Binance",2019-01-30
+"29",29,"Bitcoin","BTC/USDC","$3,251,031","$3486.33","0.62%","Spot","Percentage","Recently","Binance",2019-01-30
+"30",30,"Mainframe","MFT/BTC","$3,199,441","$0.003032","0.61%","Spot","Percentage","Recently","Binance",2019-01-30
+"31",31,"Holo","HOT/ETH","$3,125,632","$0.001151","0.60%","Spot","Percentage","Recently","Binance",2019-01-30
+"32",32,"EOS","EOS/BTC","$3,025,985","$2.34","0.58%","Spot","Percentage","Recently","Binance",2019-01-30
+"33",33,"TRON","TRX/XRP","$2,810,500","$0.027270","0.54%","Spot","Percentage","Recently","Binance",2019-01-30
+"34",34,"Zilliqa","ZIL/BTC","$2,788,087","$0.020493","0.53%","Spot","Percentage","Recently","Binance",2019-01-30
+"35",35,"Pundi X","NPXS/BTC","$2,775,240","$0.000627","0.53%","Spot","Percentage","Recently","Binance",2019-01-30
+"36",36,"Everex","EVX/BTC","$2,766,726","$0.353720","0.53%","Spot","Percentage","Recently","Binance",2019-01-30
+"37",37,"XRP","XRP/ETH","$2,746,421","$0.320033","0.53%","Spot","Percentage","Recently","Binance",2019-01-30
+"38",38,"NEO","NEO/USDT","$2,660,700","$7.12","0.51%","Spot","Percentage","Recently","Binance",2019-01-30
+"39",39,"Red Pulse Phoenix","PHX/BTC","$2,535,857","$0.008819","0.49%","Spot","Percentage","Recently","Binance",2019-01-30
+"40",40,"Bitcoin SV","BCHSV/BTC","$2,452,324","$66.31","0.47%","Spot","Percentage","Recently","Binance",2019-01-30
+"41",41,"USD Coin","USDC/USDT","$2,386,644","$1.01","0.46%","Spot","Percentage","Recently","Binance",2019-01-30
+"42",42,"XRP","XRP/TUSD","$2,249,372","$0.320101","0.43%","Spot","Percentage","Recently","Binance",2019-01-30
+"43",43,"Pundi X","NPXS/ETH","$2,167,995","$0.000648","0.41%","Spot","Percentage","Recently","Binance",2019-01-30
+"44",44,"Ontology","ONT/USDT","$2,142,680","$0.553655","0.41%","Spot","Percentage","Recently","Binance",2019-01-30
+"45",45,"Metal","MTL/BTC","$2,087,915","$0.247479","0.40%","Spot","Percentage","Recently","Binance",2019-01-30
+"46",46,"NEO","NEO/BTC","$1,817,903","$7.11","0.35%","Spot","Percentage","Recently","Binance",2019-01-30
+"47",47,"Aeron","ARN/BTC","$1,764,291","$0.276444","0.34%","Spot","Percentage","Recently","Binance",2019-01-30
+"48",48,"Mithril","MITH/BTC","$1,687,814","$0.041160","0.32%","Spot","Percentage","Recently","Binance",2019-01-30
+"49",49,"TRON","TRX/ETH","$1,679,217","$0.027470","0.32%","Spot","Percentage","Recently","Binance",2019-01-30
+"50",50,"VeChain","VET/USDT","$1,647,387","$0.004033","0.32%","Spot","Percentage","Recently","Binance",2019-01-30
+"51",51,"Monero","XMR/BTC","$1,638,445","$44.19","0.31%","Spot","Percentage","Recently","Binance",2019-01-30
+"52",52,"VeChain","VET/BTC","$1,441,993","$0.004043","0.28%","Spot","Percentage","Recently","Binance",2019-01-30
+"53",53,"Paxos Standard Token","PAX/BTC","$1,426,322","$0.877392","0.27%","Spot","Percentage","Recently","Binance",2019-01-30
+"54",54,"iExec RLC","RLC/BTC","$1,395,687","$0.285123","0.27%","Spot","Percentage","Recently","Binance",2019-01-30
+"55",55,"XRP","XRP/PAX","$1,391,083","$0.319695","0.27%","Spot","Percentage","Recently","Binance",2019-01-30
+"56",56,"ICON","ICX/BTC","$1,386,351","$0.205303","0.27%","Spot","Percentage","Recently","Binance",2019-01-30
+"57",57,"Ontology","ONT/BTC","$1,382,734","$0.553097","0.26%","Spot","Percentage","Recently","Binance",2019-01-30
+"58",58,"Ethos","BQX/BTC","$1,353,190","$0.150091","0.26%","Spot","Percentage","Recently","Binance",2019-01-30
+"59",59,"XRP","XRP/USDC","$1,305,010","$0.320643","0.25%","Spot","Percentage","Recently","Binance",2019-01-30
+"60",60,"ICON","ICX/USDT","$1,246,876","$0.204901","0.24%","Spot","Percentage","Recently","Binance",2019-01-30
+"61",61,"Ethereum Classic","ETC/USDT","$1,241,947","$4.00","0.24%","Spot","Percentage","Recently","Binance",2019-01-30
+"62",62,"Augur","REP/BTC","$1,108,591","$12.04","0.21%","Spot","Percentage","Recently","Binance",2019-01-30
+"63",63,"Zcash","ZEC/BTC","$1,076,778","$49.73","0.21%","Spot","Percentage","Recently","Binance",2019-01-30
+"64",64,"Selfkey","KEY/BTC","$1,049,691","$0.002823","0.20%","Spot","Percentage","Recently","Binance",2019-01-30
+"65",65,"Lunyr","LUN/BTC","$1,027,629","$1.75","0.20%","Spot","Percentage","Recently","Binance",2019-01-30
+"66",66,"0x","ZRX/BTC","$1,011,921","$0.259820","0.19%","Spot","Percentage","Recently","Binance",2019-01-30
+"67",67,"Ethereum Classic","ETC/BTC","$1,006,089","$4.00","0.19%","Spot","Percentage","Recently","Binance",2019-01-30
+"68",68,"NEM","XEM/BTC","$1,005,350","$0.047160","0.19%","Spot","Percentage","Recently","Binance",2019-01-30
+"69",69,"Dent","DENT/BTC","$946,728","$0.001081","0.18%","Spot","Percentage","Recently","Binance",2019-01-30
+"70",70,"Chainlink","LINK/USDT","$941,100","$0.426710","0.18%","Spot","Percentage","Recently","Binance",2019-01-30
+"71",71,"Ethereum","ETH/USDC","$862,653","$109.01","0.17%","Spot","Percentage","Recently","Binance",2019-01-30
+"72",72,"IOTA","IOTA/BTC","$844,059","$0.263652","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"73",73,"Ravencoin","RVN/BTC","$842,178","$0.011919","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"74",74,"Binance Coin","BNB/ETH","$841,858","$6.17","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"75",75,"Nano","NANO/BTC","$830,324","$0.887438","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"76",76,"IoTeX","IOTX/BTC","$825,745","$0.007249","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"77",77,"IOTA","IOTA/USDT","$822,601","$0.263473","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"78",78,"Genesis Vision","GVT/BTC","$811,681","$3.67","0.16%","Spot","Percentage","Recently","Binance",2019-01-30
+"79",79,"Agrello","DLT/BTC","$808,181","$0.118964","0.15%","Spot","Percentage","Recently","Binance",2019-01-30
+"80",80,"Waves","WAVES/ETH","$808,030","$2.91","0.15%","Spot","Percentage","Recently","Binance",2019-01-30
+"81",81,"Monetha","MTH/BTC","$804,217","$0.017289","0.15%","Spot","Percentage","Recently","Binance",2019-01-30
+"82",82,"OAX","OAX/BTC","$767,542","$0.137856","0.15%","Spot","Percentage","Recently","Binance",2019-01-30
+"83",83,"Bitcoin Gold","BTG/BTC","$750,483","$10.19","0.14%","Spot","Percentage","Recently","Binance",2019-01-30
+"84",84,"Stratis","STRAT/BTC","$726,521","$0.840731","0.14%","Spot","Percentage","Recently","Binance",2019-01-30
+"85",85,"TRON","TRX/BNB","$707,616","$0.027443","0.14%","Spot","Percentage","Recently","Binance",2019-01-30
+"86",86,"TrueUSD","TUSD/ETH","$688,442","$1.01","0.13%","Spot","Percentage","Recently","Binance",2019-01-30
+"87",87,"Loom Network","LOOM/BTC","$678,319","$0.041543","0.13%","Spot","Percentage","Recently","Binance",2019-01-30
+"88",88,"Stellar","XLM/TUSD","$663,576","$0.085739","0.13%","Spot","Percentage","Recently","Binance",2019-01-30
+"89",89,"Verge","XVG/BTC","$658,293","$0.006239","0.13%","Spot","Percentage","Recently","Binance",2019-01-30
+"90",90,"aelf","ELF/BTC","$648,325","$0.105636","0.12%","Spot","Percentage","Recently","Binance",2019-01-30
+"91",91,"Viberate","VIB/BTC","$644,797","$0.022726","0.12%","Spot","Percentage","Recently","Binance",2019-01-30
+"92",92,"FunFair","FUN/BTC","$634,713","$0.003974","0.12%","Spot","Percentage","Recently","Binance",2019-01-30
+"93",93,"Dash","DASH/BTC","$616,120","$69.07","0.12%","Spot","Percentage","Recently","Binance",2019-01-30
+"94",94,"IOST","IOST/BTC","$607,212","$0.005890","0.12%","Spot","Percentage","Recently","Binance",2019-01-30
+"95",95,"USD Coin","USDC/TUSD","$602,482","$1.01","0.12%","Spot","Percentage","Recently","Binance",2019-01-30
+"96",96,"QuarkChain","QKC/BTC","$576,151","$0.029903","0.11%","Spot","Percentage","Recently","Binance",2019-01-30
+"97",97,"Storm","STORM/BTC","$563,634","$0.002823","0.11%","Spot","Percentage","Recently","Binance",2019-01-30
+"98",98,"Stellar","XLM/USDC","$554,275","$0.085901","0.11%","Spot","Percentage","Recently","Binance",2019-01-30
+"99",99,"THETA","THETA/BTC","$505,971","$0.054717","0.10%","Spot","Percentage","Recently","Binance",2019-01-30
+"100",100,"Wanchain","WAN/BTC","$504,319","$0.292057","0.10%","Spot","Percentage","Recently","Binance",2019-01-30
+"101",101,"XRP","XRP/BNB","$500,832","$0.320343","0.10%","Spot","Percentage","Recently","Binance",2019-01-30
+"102",102,"QLC Chain","QLC/BTC","$487,149","$0.022970","0.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"103",103,"Moeda Loyalty Points","MDA/BTC","$481,774","$0.694718","0.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"104",104,"Cardano","ADA/ETH","$479,935","$0.039735","0.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"105",105,"Waves","WAVES/TUSD","$467,366","$2.92","0.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"106",106,"Zilliqa","ZIL/ETH","$453,235","$0.020375","0.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"107",107,"Polymath","POLY/BTC","$444,440","$0.102290","0.09%","Spot","Percentage","Recently","Binance",2019-01-30
+"108",108,"Stellar","XLM/ETH","$443,783","$0.085731","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"109",109,"OmiseGO","OMG/BTC","$440,519","$1.14","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"110",110,"Enjin Coin","ENJ/BTC","$427,145","$0.031889","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"111",111,"Nucleus Vision","NCASH/BTC","$420,323","$0.001743","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"112",112,"TrueUSD","TUSD/BNB","$417,404","$1.01","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"113",113,"Waltonchain","WTC/BTC","$397,161","$1.00","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"114",114,"Status","SNT/BTC","$392,996","$0.019412","0.08%","Spot","Percentage","Recently","Binance",2019-01-30
+"115",115,"TRON","TRX/TUSD","$389,319","$0.027449","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"116",116,"PIVX","PIVX/BTC","$388,054","$0.700609","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"117",117,"Cardano","ADA/TUSD","$384,790","$0.039651","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"118",118,"Loopring","LRC/BTC","$379,485","$0.059674","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"119",119,"CyberMiles","CMT/BTC","$371,552","$0.023563","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"120",120,"Basic Attention Token","BAT/BTC","$370,775","$0.116230","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"121",121,"Siacoin","SC/BTC","$361,193","$0.002370","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"122",122,"NULS","NULS/BTC","$360,410","$0.418239","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"123",123,"VeChain","VET/ETH","$357,589","$0.004024","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"124",124,"EOS","EOS/ETH","$353,218","$2.33","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"125",125,"WePower","WPR/BTC","$352,103","$0.012756","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"126",126,"Aion","AION/BTC","$348,478","$0.120951","0.07%","Spot","Percentage","Recently","Binance",2019-01-30
+"127",127,"Power Ledger","POWR/BTC","$326,415","$0.084596","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"128",128,"Komodo","KMD/BTC","$321,474","$0.651462","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"129",129,"Bluzelle","BLZ/BTC","$316,633","$0.038058","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"130",130,"Binance Coin","BNB/PAX","$306,749","$6.15","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"131",131,"Ren","REN/BTC","$306,013","$0.018785","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"132",132,"Ambrosus","AMB/BTC","$302,173","$0.057060","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"133",133,"Qtum","QTUM/BTC","$300,138","$1.90","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"134",134,"Chainlink","LINK/ETH","$299,302","$0.424671","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"135",135,"Gifto","GTO/BTC","$295,183","$0.025480","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"136",136,"Lisk","LSK/BTC","$291,297","$1.12","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"137",137,"Everex","EVX/ETH","$290,966","$0.353100","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"138",138,"Wings","WINGS/BTC","$288,221","$0.086408","0.06%","Spot","Percentage","Recently","Binance",2019-01-30
+"139",139,"IOTA","IOTA/ETH","$286,742","$0.262805","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"140",140,"GoChain","GO/BTC","$277,353","$0.019691","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"141",141,"Viacoin","VIA/BTC","$272,381","$0.307431","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"142",142,"Insolar","INS/BTC","$268,800","$0.271181","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"143",143,"SingularityNET","AGI/BTC","$255,641","$0.045766","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"144",144,"Groestlcoin","GRS/BTC","$255,402","$0.201957","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"145",145,"NEO","NEO/ETH","$252,849","$7.10","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"146",146,"Dock","DOCK/BTC","$252,761","$0.008922","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"147",147,"Mainframe","MFT/ETH","$252,638","$0.003033","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"148",148,"Steem","STEEM/BTC","$242,663","$0.296277","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"149",149,"Tierion","TNT/BTC","$242,466","$0.014361","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"150",150,"SingularDTV","SNGLS/BTC","$242,394","$0.014082","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"151",151,"POA Network","POA/BTC","$239,175","$0.029035","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"152",152,"Aeternity","AE/BTC","$237,596","$0.377492","0.05%","Spot","Percentage","Recently","Binance",2019-01-30
+"153",153,"Qtum","QTUM/USDT","$234,819","$1.90","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"154",154,"Waves","WAVES/BNB","$234,261","$2.92","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"155",155,"OST","OST/BTC","$232,127","$0.020077","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"156",156,"EOS","EOS/PAX","$227,861","$2.33","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"157",157,"Decentraland","MANA/BTC","$225,935","$0.035305","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"158",158,"Bitcoin Diamond","BCD/BTC","$225,721","$0.731886","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"159",159,"VIBE","VIBE/BTC","$217,805","$0.035170","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"160",160,"Po.et","POE/BTC","$213,058","$0.005089","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"161",161,"Aeron","ARN/ETH","$212,385","$0.276853","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"162",162,"Tael","WABI/BTC","$208,070","$0.121125","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"163",163,"BitShares","BTS/BTC","$204,955","$0.037610","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"164",164,"Quantstamp","QSP/BTC","$204,156","$0.014605","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"165",165,"Chainlink","LINK/USDC","$200,223","$0.428066","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"166",166,"Red Pulse Phoenix","PHX/ETH","$195,360","$0.008788","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"167",167,"Paxos Standard Token","PAX/ETH","$194,392","$0.966499","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"168",168,"Binance Coin","BNB/USDC","$193,679","$6.17","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"169",169,"Stellar","XLM/PAX","$189,109","$0.085571","0.04%","Spot","Percentage","Recently","Binance",2019-01-30
+"170",170,"NULS","NULS/USDT","$178,811","$0.417955","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"171",171,"NEO","NEO/TUSD","$166,985","$7.11","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"172",172,"Nebulas","NAS/BTC","$160,861","$0.531557","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"173",173,"Litecoin","LTC/ETH","$153,431","$31.94","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"174",174,"Augur","REP/ETH","$153,090","$11.99","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"175",175,"Chainlink","LINK/TUSD","$152,292","$0.427267","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"176",176,"Bitcoin Cash","BCHABC/TUSD","$149,887","$118.26","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"177",177,"Golem","GNT/BTC","$149,231","$0.058245","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"178",178,"Kyber Network","KNC/BTC","$148,648","$0.122016","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"179",179,"HyperCash","HC/BTC","$145,117","$0.954710","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"180",180,"Stellar","XLM/BNB","$144,708","$0.085963","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"181",181,"TRON","TRX/USDC","$144,323","$0.027491","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"182",182,"Gas","GAS/BTC","$143,698","$1.99","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"183",183,"YOYOW","YOYO/BTC","$141,518","$0.014012","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"184",184,"BlockMason Credit Protocol","BCPT/BTC","$139,525","$0.030325","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"185",185,"Skycoin","SKY/BTC","$138,807","$0.965516","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"186",186,"Raiden Network Token","RDN/BTC","$134,697","$0.212936","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"187",187,"Paxos Standard Token","PAX/TUSD","$132,051","$1.01","0.03%","Spot","Percentage","Recently","Binance",2019-01-30
+"188",188,"Ripio Credit Network","RCN/BTC","$130,641","$0.011398","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"189",189,"AdEx","ADX/BTC","$130,226","$0.094181","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"190",190,"Agrello","DLT/ETH","$129,596","$0.118650","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"191",191,"SALT","SALT/BTC","$122,203","$0.215411","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"192",192,"ICON","ICX/ETH","$121,763","$0.204608","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"193",193,"Zcoin","XZC/BTC","$121,689","$4.73","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"194",194,"Populous","PPT/BTC","$121,492","$1.24","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"195",195,"USD Coin","USDC/PAX","$121,184","$1.01","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"196",196,"district0x","DNT/BTC","$120,794","$0.010945","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"197",197,"GXChain","GXS/BTC","$116,679","$0.561184","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"198",198,"Status","SNT/ETH","$116,616","$0.019333","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"199",199,"Time New Bank","TNB/BTC","$115,728","$0.002893","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"200",200,"Crypto.com","MCO/BTC","$114,193","$2.06","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"201",201,"iExec RLC","RLC/ETH","$111,481","$0.285690","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"202",202,"Blox","CDT/BTC","$110,854","$0.007529","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"203",203,"ETHLend","LEND/BTC","$110,285","$0.007634","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"204",204,"AirSwap","AST/BTC","$108,131","$0.026351","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"205",205,"Request Network","REQ/BTC","$107,173","$0.020879","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"206",206,"Ontology","ONT/ETH","$104,077","$0.552552","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"207",207,"Bread","BRD/BTC","$103,992","$0.204431","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"208",208,"Litecoin","LTC/BNB","$99,460","$32.03","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"209",209,"Eidoo","EDO/BTC","$99,268","$0.693986","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"210",210,"Cindicator","CND/BTC","$96,342","$0.010004","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"211",211,"Modum","MOD/BTC","$95,141","$0.303249","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"212",212,"Dent","DENT/ETH","$94,768","$0.001069","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"213",213,"Ark","ARK/BTC","$94,581","$0.404680","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"214",214,"Decred","DCR/BTC","$94,352","$16.35","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"215",215,"VeChain","VET/BNB","$85,135","$0.004073","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"216",216,"NEM","XEM/ETH","$82,531","$0.047166","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"217",217,"Monero","XMR/ETH","$78,492","$44.17","0.02%","Spot","Percentage","Recently","Binance",2019-01-30
+"218",218,"Neblio","NEBL/BTC","$78,360","$1.04","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"219",219,"Ardor","ARDR/BTC","$77,965","$0.052354","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"220",220,"Cardano","ADA/BNB","$77,534","$0.039742","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"221",221,"Nexus","NXS/BTC","$76,900","$0.346122","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"222",222,"SONM","SNM/BTC","$75,013","$0.019519","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"223",223,"Stratis","STRAT/ETH","$74,066","$0.841507","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"224",224,"0x","ZRX/ETH","$72,068","$0.259689","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"225",225,"Bancor","BNT/BTC","$71,789","$0.493674","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"226",226,"Waves","WAVES/USDC","$71,751","$2.91","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"227",227,"Etherparty","FUEL/BTC","$69,334","$0.007703","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"228",228,"Gifto","GTO/ETH","$68,349","$0.025442","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"229",229,"Zcash","ZEC/ETH","$68,100","$49.74","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"230",230,"Enigma","ENG/BTC","$68,039","$0.269403","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"231",231,"Monetha","MTH/ETH","$65,498","$0.017215","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"232",232,"IOST","IOST/ETH","$65,191","$0.005890","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"233",233,"DigixDAO","DGD/BTC","$64,526","$16.26","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"234",234,"OAX","OAX/ETH","$64,189","$0.137599","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"235",235,"Verge","XVG/ETH","$63,202","$0.006214","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"236",236,"Horizen","ZEN/BTC","$63,182","$4.24","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"237",237,"Bitcoin Gold","BTG/ETH","$62,372","$10.20","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"238",238,"CloakCoin","CLOAK/BTC","$62,067","$1.13","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"239",239,"Zilliqa","ZIL/BNB","$61,921","$0.020544","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"240",240,"NEM","XEM/BNB","$61,275","$0.047209","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"241",241,"Qtum","QTUM/ETH","$60,797","$1.89","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"242",242,"Streamr DATAcoin","DATA/BTC","$60,648","$0.018021","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"243",243,"EOS","EOS/TUSD","$60,379","$2.33","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"244",244,"Civic","CVC/BTC","$60,226","$0.049391","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"245",245,"Aeternity","AE/ETH","$60,123","$0.378308","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"246",246,"QuarkChain","QKC/ETH","$59,362","$0.029910","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"247",247,"Viberate","VIB/ETH","$56,326","$0.022754","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"248",248,"AppCoins","APPC/BTC","$56,222","$0.042246","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"249",249,"OmiseGO","OMG/ETH","$53,670","$1.14","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"250",250,"NEO","NEO/BNB","$52,534","$7.13","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"251",251,"Substratum","SUB/BTC","$51,061","$0.042106","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"252",252,"Siacoin","SC/ETH","$50,218","$0.002356","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"253",253,"NavCoin","NAV/BTC","$49,754","$0.151624","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"254",254,"Ethereum Classic","ETC/ETH","$49,216","$4.00","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"255",255,"Lunyr","LUN/ETH","$49,181","$1.75","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"256",256,"Nano","NANO/ETH","$49,088","$0.886455","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"257",257,"Red Pulse Phoenix","PHX/BNB","$48,224","$0.008744","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"258",258,"Ethos","BQX/ETH","$47,263","$0.150137","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"259",259,"Dash","DASH/ETH","$47,160","$68.85","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"260",260,"IoTeX","IOTX/ETH","$46,243","$0.007306","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"261",261,"THETA","THETA/ETH","$45,642","$0.054696","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"262",262,"EOS","EOS/BNB","$45,606","$2.34","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"263",263,"PIVX","PIVX/ETH","$45,161","$0.700784","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"264",264,"Kyber Network","KNC/ETH","$43,771","$0.121337","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"265",265,"Bancor","BNT/ETH","$43,691","$0.494275","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"266",266,"Bitcoin Cash","BCHABC/USDC","$42,585","$118.56","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"267",267,"Loom Network","LOOM/ETH","$42,569","$0.041510","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"268",268,"USD Coin","USDC/BTC","$41,112","$1.09","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"269",269,"Enjin Coin","ENJ/ETH","$40,829","$0.031960","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"270",270,"Syscoin","SYS/BTC","$40,793","$0.042211","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"271",271,"CyberMiles","CMT/ETH","$40,722","$0.023507","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"272",272,"IOTA","IOTA/BNB","$40,516","$0.264371","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"273",273,"Basic Attention Token","BAT/ETH","$39,656","$0.116271","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"274",274,"Nebulas","NAS/ETH","$39,106","$0.530785","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"275",275,"Dock","DOCK/ETH","$38,898","$0.008882","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"276",276,"Litecoin","LTC/TUSD","$38,415","$31.98","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"277",277,"SingularityNET","AGI/ETH","$37,630","$0.045560","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"278",278,"Agrello","DLT/BNB","$37,611","$0.118671","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"279",279,"Genesis Vision","GVT/ETH","$37,581","$3.66","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"280",280,"Storj","STORJ/BTC","$36,836","$0.131129","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"281",281,"Ambrosus","AMB/ETH","$36,476","$0.057419","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"282",282,"Storm","STORM/ETH","$35,881","$0.002835","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"283",283,"Bitcoin Diamond","BCD/ETH","$35,617","$0.730278","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"284",284,"Selfkey","KEY/ETH","$35,398","$0.002848","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"285",285,"EOS","EOS/USDC","$35,377","$2.34","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"286",286,"Aion","AION/ETH","$35,038","$0.120806","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"287",287,"Paxos Standard Token","PAX/BNB","$34,018","$1.24","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"288",288,"Insolar","INS/ETH","$31,667","$0.272453","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"289",289,"Loopring","LRC/ETH","$31,486","$0.059345","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"290",290,"Loom Network","LOOM/BNB","$30,841","$0.042025","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"291",291,"Ontology","ONT/BNB","$30,543","$0.555402","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"292",292,"QLC Chain","QLC/ETH","$30,425","$0.022977","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"293",293,"Zcoin","XZC/XRP","$30,408","$4.69","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"294",294,"Waltonchain","WTC/ETH","$30,376","$1.00","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"295",295,"aelf","ELF/ETH","$29,210","$0.105547","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"296",296,"Metal","MTL/ETH","$28,999","$0.248577","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"297",297,"Nucleus Vision","NCASH/ETH","$28,318","$0.001736","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"298",298,"Power Ledger","POWR/ETH","$27,540","$0.084694","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"299",299,"POA Network","POA/ETH","$26,152","$0.028926","0.01%","Spot","Percentage","Recently","Binance",2019-01-30
+"300",300,"Populous","PPT/ETH","$25,883","$1.23","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"301",301,"FunFair","FUN/ETH","$25,716","$0.003901","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"302",302,"GXChain","GXS/ETH","$25,063","$0.557776","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"303",303,"Raiden Network Token","RDN/BNB","$23,412","$0.213768","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"304",304,"Mainframe","MFT/BNB","$23,110","$0.003042","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"305",305,"Decentraland","MANA/ETH","$22,546","$0.035205","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"306",306,"Bitcoin SV","BCHSV/TUSD","$22,514","$65.95","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"307",307,"Moeda Loyalty Points","MDA/ETH","$22,366","$0.695135","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"308",308,"SingularDTV","SNGLS/ETH","$22,026","$0.014164","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"309",309,"Wanchain","WAN/ETH","$21,967","$0.291349","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"310",310,"BitShares","BTS/ETH","$21,850","$0.037388","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"311",311,"WePower","WPR/ETH","$21,498","$0.012724","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"312",312,"Nano","NANO/BNB","$21,306","$0.891111","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"313",313,"Tael","WABI/ETH","$20,348","$0.120862","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"314",314,"Skycoin","SKY/ETH","$20,303","$0.962095","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"315",315,"Steem","STEEM/ETH","$20,213","$0.296138","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"316",316,"Bluzelle","BLZ/ETH","$19,805","$0.037920","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"317",317,"Tierion","TNT/ETH","$19,708","$0.014366","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"318",318,"Crypto.com","MCO/ETH","$19,633","$2.05","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"319",319,"Waves","WAVES/PAX","$19,530","$2.91","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"320",320,"DigixDAO","DGD/ETH","$19,520","$16.22","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"321",321,"iExec RLC","RLC/BNB","$19,202","$0.284613","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"322",322,"AdEx","ADX/ETH","$18,804","$0.094708","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"323",323,"Viacoin","VIA/ETH","$18,595","$0.308001","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"324",324,"Wings","WINGS/ETH","$18,348","$0.086469","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"325",325,"Mithril","MITH/BNB","$17,555","$0.040915","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"326",326,"ETHLend","LEND/ETH","$17,070","$0.007650","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"327",327,"ICON","ICX/BNB","$17,052","$0.205684","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"328",328,"NULS","NULS/ETH","$17,021","$0.417925","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"329",329,"Komodo","KMD/ETH","$16,974","$0.650720","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"330",330,"Time New Bank","TNB/ETH","$16,511","$0.002874","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"331",331,"Request Network","REQ/ETH","$16,263","$0.020882","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"332",332,"Raiden Network Token","RDN/ETH","$15,915","$0.212412","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"333",333,"Litecoin","LTC/PAX","$15,622","$31.67","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"334",334,"Modum","MOD/ETH","$15,057","$0.302233","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"335",335,"VIBE","VIBE/ETH","$14,929","$0.035175","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"336",336,"OST","OST/ETH","$14,749","$0.020027","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"337",337,"Bitcoin Cash","BCHABC/PAX","$14,748","$116.94","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"338",338,"TRON","TRX/PAX","$14,257","$0.027560","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"339",339,"Ravencoin","RVN/BNB","$13,720","$0.011941","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"340",340,"Eidoo","EDO/ETH","$13,556","$0.695560","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"341",341,"Groestlcoin","GRS/ETH","$13,003","$0.199911","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"342",342,"QLC Chain","QLC/BNB","$12,919","$0.023048","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"343",343,"Tael","WABI/BNB","$12,917","$0.121561","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"344",344,"Polymath","POLY/BNB","$12,906","$0.102688","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"345",345,"Ark","ARK/ETH","$12,851","$0.404972","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"346",346,"Lisk","LSK/ETH","$12,456","$1.12","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"347",347,"Streamr DATAcoin","DATA/ETH","$11,943","$0.018057","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"348",348,"Quantstamp","QSP/ETH","$11,935","$0.014522","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"349",349,"Ripio Credit Network","RCN/ETH","$11,779","$0.011413","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"350",350,"Enigma","ENG/ETH","$11,322","$0.269474","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"351",351,"Bread","BRD/ETH","$11,265","$0.202179","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"352",352,"Nexus","NXS/ETH","$11,176","$0.345005","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"353",353,"Storj","STORJ/ETH","$11,043","$0.130307","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"354",354,"Blox","CDT/ETH","$10,990","$0.007534","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"355",355,"AirSwap","AST/ETH","$10,714","$0.026349","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"356",356,"Gifto","GTO/BNB","$10,506","$0.025472","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"357",357,"SALT","SALT/ETH","$10,464","$0.214404","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"358",358,"Bitcoin SV","BCHSV/PAX","$10,294","$66.24","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"359",359,"Bitcoin SV","BCHSV/USDC","$9,802","$66.10","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"360",360,"HyperCash","HC/ETH","$9,795","$0.959918","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"361",361,"YOYOW","YOYO/ETH","$9,297","$0.014030","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"362",362,"BlockMason Credit Protocol","BCPT/ETH","$9,125","$0.030316","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"363",363,"Golem","GNT/ETH","$8,882","$0.058181","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"364",364,"Po.et","POE/ETH","$8,571","$0.005043","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"365",365,"Cindicator","CND/ETH","$8,144","$0.010014","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"366",366,"Substratum","SUB/ETH","$7,997","$0.042197","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"367",367,"Basic Attention Token","BAT/BNB","$7,747","$0.116017","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"368",368,"PIVX","PIVX/BNB","$7,716","$0.699066","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"369",369,"Etherparty","FUEL/ETH","$7,705","$0.007758","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"370",370,"Neblio","NEBL/ETH","$7,673","$1.04","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"371",371,"Bluzelle","BLZ/BNB","$7,562","$0.038570","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"372",372,"Qtum","QTUM/BNB","$7,402","$1.90","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"373",373,"POA Network","POA/BNB","$7,356","$0.028926","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"374",374,"AppCoins","APPC/ETH","$7,319","$0.042332","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"375",375,"SONM","SNM/ETH","$7,209","$0.019447","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"376",376,"Power Ledger","POWR/BNB","$7,198","$0.084791","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"377",377,"Zcoin","XZC/ETH","$7,184","$4.70","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"378",378,"Ethereum Classic","ETC/BNB","$6,827","$4.01","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"379",379,"Horizen","ZEN/ETH","$6,823","$4.22","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"380",380,"district0x","DNT/ETH","$6,746","$0.010938","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"381",381,"Litecoin","LTC/USDC","$6,645","$31.93","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"382",382,"THETA","THETA/BNB","$6,569","$0.055170","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"383",383,"Ripio Credit Network","RCN/BNB","$6,533","$0.011552","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"384",384,"Enjin Coin","ENJ/BNB","$6,467","$0.031954","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"385",385,"Augur","REP/BNB","$6,307","$12.01","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"386",386,"NULS","NULS/BNB","$6,097","$0.418341","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"387",387,"Golem","GNT/BNB","$6,069","$0.057453","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"388",388,"Nucleus Vision","NCASH/BNB","$5,946","$0.001740","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"389",389,"NavCoin","NAV/ETH","$5,916","$0.151824","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"390",390,"Ardor","ARDR/ETH","$5,417","$0.052381","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"391",391,"Steem","STEEM/BNB","$5,367","$0.297634","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"392",392,"Nexus","NXS/BNB","$4,991","$0.344349","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"393",393,"Quantstamp","QSP/BNB","$4,926","$0.014642","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"394",394,"GoChain","GO/BNB","$4,922","$0.019846","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"395",395,"Aeternity","AE/BNB","$4,813","$0.379093","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"396",396,"Viacoin","VIA/BNB","$4,753","$0.305039","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"397",397,"Aion","AION/BNB","$4,730","$0.121016","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"398",398,"OST","OST/BNB","$4,488","$0.020007","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"399",399,"Waltonchain","WTC/BNB","$4,412","$1.02","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"400",400,"Lisk","LSK/BNB","$4,227","$1.12","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"401",401,"Cindicator","CND/BNB","$3,944","$0.010040","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"402",402,"BitShares","BTS/BNB","$3,836","$0.037582","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"403",403,"Civic","CVC/ETH","$3,658","$0.049314","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"404",404,"USD Coin","USDC/BNB","$3,503","$1.34","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"405",405,"Zcoin","XZC/BNB","$3,496","$4.72","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"406",406,"BlockMason Credit Protocol","BCPT/BNB","$3,363","$0.030424","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"407",407,"SingularityNET","AGI/BNB","$3,294","$0.045948","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"408",408,"YOYOW","YOYO/BNB","$3,252","$0.014027","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"409",409,"Syscoin","SYS/ETH","$3,226","$0.042235","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"410",410,"CloakCoin","CLOAK/ETH","$3,032","$1.13","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"411",411,"Crypto.com","MCO/BNB","$3,006","$2.06","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"412",412,"Skycoin","SKY/BNB","$2,999","$0.956525","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"413",413,"Wanchain","WAN/BNB","$2,988","$0.295042","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"414",414,"Horizen","ZEN/BNB","$2,872","$4.24","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"415",415,"Storm","STORM/BNB","$2,836","$0.002919","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"416",416,"Ren","REN/BNB","$2,831","$0.018822","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"417",417,"Siacoin","SC/BNB","$2,762","$0.002388","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"418",418,"NavCoin","NAV/BNB","$2,596","$0.151933","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"419",419,"Bread","BRD/BNB","$1,765","$0.205069","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"420",420,"Decred","DCR/BNB","$1,673","$16.51","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"421",421,"Nebulas","NAS/BNB","$1,475","$0.533741","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"422",422,"AdEx","ADX/BNB","$1,367","$0.094974","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"423",423,"Chainlink","LINK/PAX","$1,325","$0.426725","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"424",424,"AppCoins","APPC/BNB","$1,235","$0.042926","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"425",425,"Syscoin","SYS/BNB","$1,232","$0.042704","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"426",426,"Ambrosus","AMB/BNB","$1,066","$0.057543","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"427",427,"CyberMiles","CMT/BNB","$1,003","$0.023868","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"428",428,"Neblio","NEBL/BNB","$874","$1.06","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"429",429,"Civic","CVC/BNB","$532","$0.049739","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
+"430",430,"Ardor","ARDR/BNB","$421","$0.052084","0.00%","Spot","Percentage","Recently","Binance",2019-01-30
